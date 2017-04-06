@@ -1,25 +1,22 @@
 {
-  "name": "loggers",
-  "version": "1.0.0",
-  "description": "Various loggers used in node projects at Université de Montréal Libraries.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/remillc/loggers.git"
-  },
-  "author": "Christian Rémillard <christian.remillard@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/remillc/loggers/issues"
-  },
-  "homepage": "https://github.com/remillc/loggers#readme",
-  "dependencies": {
-    "cli-color": "^1.1.0",
-    "response-time": "^2.3.1",
-    "tracer": "^0.8.3",
-    "uncolor": "^0.4.0"
-  }
+	"name": "loggers",
+	"version": "2.0.0",
+	"description": "Various loggers used in node projects at Université de Montréal Libraries.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/remillc/loggers.git"
+	},
+	"author": "Christian Rémillard <christian.remillard@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/remillc/loggers/issues"
+	},
+	"homepage": "https://github.com/remillc/loggers#readme",
+	"dependencies": {
+		"tracer": "^0.8.7"
+	}
 }

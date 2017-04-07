@@ -18,6 +18,8 @@
   "homepage": "https://github.com/remillc/loggers#readme",
   "dependencies": {
     "cli-color": "^1.2.0",
+    "colors": "^1.1.2",
+    "pretty-bytes": "^4.0.2",
     "response-time": "^2.3.2",
     "tracer": "^0.8.7"
   }
